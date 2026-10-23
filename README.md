@@ -27,7 +27,7 @@ The project uses two CSV files:
 The notebook compares two neural-network architectures:
 
 1. An embedding model with average pooling
-2. An embedding model with a bidirectional GRU
+2. An embedding model with a bidirectional gated recurrent unit (GRU).
 
 The models are evaluated using Mean Absolute Error, abbreviated as MAE.
 A smaller MAE represents more accurate predictions.
