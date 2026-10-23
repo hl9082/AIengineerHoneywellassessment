@@ -1,0 +1,15 @@
+# Jupyter notebook environment
+jupyter
+
+# Data processing
+numpy
+pandas
+
+# Data visualization
+matplotlib
+
+# Machine learning and MAE evaluation
+scikit-learn
+
+# Neural-network modeling
+tensorflow
