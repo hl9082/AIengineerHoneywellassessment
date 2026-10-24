@@ -1,0 +1,8 @@
+{
+  "max_tokens": 20000,
+  "output_mode": "int",
+  "output_sequence_length": 10,
+  "standardize": "lower_and_strip_punctuation",
+  "split": "whitespace",
+  "encoding": "utf-8"
+}

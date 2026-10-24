@@ -1,3 +1,3 @@
-model,validation_mae,best_epoch,parameters
-BidirectionalGRUNN,0.05876288563013077,22,84609
-AveragePoolingNN,0.24787116050720215,1,51777
+model,validation_mae,best_epoch,parameters,checkpoint_path
+BidirectionalGRUNN,0.05876288563013077,22,84609,outputs\BidirectionalGRUNN_best.keras
+AveragePoolingNN,0.24787116050720215,1,51777,outputs\AveragePoolingNN_best.keras
