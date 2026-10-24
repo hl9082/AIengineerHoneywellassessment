@@ -280,7 +280,7 @@ python -m ipykernel install --user --name query-rating-project --display-name "P
 1. Place `train.csv` and `test.csv` in `data/`.
 2. Activate the project environment.
 3. Start Jupyter with `jupyter notebook`.
-4. Open `query_rating_model_whole_serialization.ipynb`.
+4. Open `query_rating_neural_network.ipynb`.
 5. Select the project kernel.
 6. Restart the kernel.
 7. Run all cells from top to bottom.
